@@ -116,8 +116,8 @@ Interactive visualizations were created using Plotly and Pandas.
 ## 📂 Project Structure
 
 ### 📁 SQL
-- KPI_ANALYSIS.sql
-- OVERVIEW_ANALYSIS.sql
+- `KPI_ANALYSIS.sql`
+- `OVERVIEW_ANALYSIS.sql`
 
 ### 📁 Power BI
 - `Bank_Loan_Dashboard.pbix`
