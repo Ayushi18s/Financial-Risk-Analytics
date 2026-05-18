@@ -105,7 +105,7 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ### 📈 Overview Dashboard
 
-<img width="849" height="476" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/762dc4ab-adb3-46d8-9b3f-e665300585c7" />
+<img width="1461" height="820" alt="image" src="https://github.com/user-attachments/assets/b65321ad-913f-4406-9ff2-7bcb33909984" />
 
 ### 📉 Details Dashboard
 
