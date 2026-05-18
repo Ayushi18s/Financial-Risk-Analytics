@@ -115,49 +115,26 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ## 📂 Project Structure
 
+### 📁 SQL
+- KPI_ANALYSIS.sql
+- OVERVIEW_ANALYSIS.sql
 
-Financial-Risk-Analytics/
+### 📁 Power BI
+- `Bank_Loan_Dashboard.pbix`
+- Dashboard screenshots
 
-│
+### 📁 Python
+- `bank_loan_eda.ipynb`
 
-├── README.md
+### 📁 Documentation
+- `Problem_Statement.docx`
+- `Domain_Knowledge.docx`
+- `Terminologies.docx`
+- `SQL_Query_Document.docx`
 
-├── LICENSE
-
-│
-
-├── sql/
-
-│   ├── KPI_ANALYSIS.sql
-
-│   └── OVERVIEW_ANALYSIS.sql
-
-│
-
-├── powerbi/
-
-│   ├── Bank_Loan_Dashboard.pbix
-
-│   └── dashboard_screenshots/
-
-│
-
-├── python/
-
-│   └── bank_loan_eda.ipynb
-
-│
-
-├── documentation/
-
-│   ├── Problem_Statement.docx
-
-│   ├── Domain_Knowledge.docx
-
-│   ├── Terminologies.docx
-
-│   └── SQL_Query_Document.docx
-
+### 📄 Other Files
+- `README.md`
+- `LICENSE`
 
 ---
 
