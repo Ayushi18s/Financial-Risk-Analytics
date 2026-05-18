@@ -101,15 +101,15 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ### 📊 Summary Dashboard
 
-(Add Screenshot Here)
+<img width="846" height="476" alt="Summary Dashboard" src="https://github.com/user-attachments/assets/e6765508-7e88-4576-9538-18e4fabaabac" />
 
 ### 📈 Overview Dashboard
 
-(Add Screenshot Here)
+<img width="849" height="476" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/762dc4ab-adb3-46d8-9b3f-e665300585c7" />
 
 ### 📉 Details Dashboard
 
-(Add Screenshot Here)
+<img width="841" height="473" alt="Details Dashboard" src="https://github.com/user-attachments/assets/da9090e7-0f0d-492f-a10e-91a180bbb91e" />
 
 ---
 
