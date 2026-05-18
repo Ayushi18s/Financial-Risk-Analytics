@@ -124,32 +124,32 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ┣ 📁 sql
 
-┃ ┣ 📄 KPI_ANALYSIS.sql
+  ┣ 📄 KPI_ANALYSIS.sql
 
-┃ ┗ 📄 OVERVIEW_ANALYSIS.sql
+  ┗ 📄 OVERVIEW_ANALYSIS.sql
 
 
 ┣ 📁 powerbi
 
-┃ ┣ 📄 Bank_Loan_Dashboard.pbix
+  ┣ 📄 Bank_Loan_Dashboard.pbix
 
-┃ ┗ 📁 dashboard_screenshots
+  ┗ 📁 dashboard_screenshots
 
 
 ┣ 📁 python
 
-┃ ┗ 📄 bank_loan_eda.ipynb
+  ┗ 📄 bank_loan_eda.ipynb
 
 
 ┣ 📁 documentation
 
-┃ ┣ 📄 Problem_Statement.docx
+  ┣ 📄 Problem_Statement.docx
 
-┃ ┣ 📄 Domain_Knowledge.docx
+  ┣ 📄 Domain_Knowledge.docx
 
-┃ ┣ 📄 Terminologies.docx
+  ┣ 📄 Terminologies.docx
 
-┃ ┗ 📄 SQL_Query_Document.docx
+  ┗ 📄 SQL_Query_Document.docx
 
 
 ---
@@ -179,6 +179,7 @@ However, all analysis workflows, SQL queries, dashboards, and visualizations use
 Developed by Ayushi
 
 GitHub: https://github.com/Ayushi18s
+
 LinkedIn: www.linkedin.com/in/ayushi-00024a311
 
 ---
