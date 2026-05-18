@@ -25,7 +25,7 @@ This project helps analyse:
 
 ## 🛠️ Tools & Technologies Used
 
-* 🛢️ PostgreSQL / SQL
+* 🛢️ PostgreSQL
 * 🐍 Python
 * 📊 Power BI
 * 📈 DAX
@@ -115,7 +115,7 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ## 📂 Project Structure
 
-### 📁 SQL
+### 📁 SQL (PostgreSQL)
 - `KPI_ANALYSIS.sql`
 - `OVERVIEW_ANALYSIS.sql`
 
