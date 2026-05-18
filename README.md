@@ -115,7 +115,7 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ## 📂 Project Structure
 
-```text
+
 Financial-Risk-Analytics/
 │
 ├── README.md
