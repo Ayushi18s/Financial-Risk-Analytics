@@ -124,32 +124,32 @@ Interactive visualizations were created using Plotly and Pandas.
 
 ┣ 📁 sql
 
-  ┣ 📄 KPI_ANALYSIS.sql
+│  ┣ 📄 KPI_ANALYSIS.sql
 
-  ┗ 📄 OVERVIEW_ANALYSIS.sql
+│  ┗ 📄 OVERVIEW_ANALYSIS.sql
 
 
 ┣ 📁 powerbi
 
-  ┣ 📄 Bank_Loan_Dashboard.pbix
+│  ┣ 📄 Bank_Loan_Dashboard.pbix
 
-  ┗ 📁 dashboard_screenshots
+│  ┗ 📁 dashboard_screenshots
 
 
 ┣ 📁 python
 
-  ┗ 📄 bank_loan_eda.ipynb
+│  ┗ 📄 bank_loan_eda.ipynb
 
 
 ┣ 📁 documentation
 
-  ┣ 📄 Problem_Statement.docx
+│  ┣ 📄 Problem_Statement.docx
 
-  ┣ 📄 Domain_Knowledge.docx
+│  ┣ 📄 Domain_Knowledge.docx
 
-  ┣ 📄 Terminologies.docx
+│  ┣ 📄 Terminologies.docx
 
-  ┗ 📄 SQL_Query_Document.docx
+│  ┗ 📄 SQL_Query_Document.docx
 
 
 ---
