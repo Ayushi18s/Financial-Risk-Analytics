@@ -179,6 +179,7 @@ However, all analysis workflows, SQL queries, dashboards, and visualizations use
 Developed by Ayushi
 
 GitHub: https://github.com/Ayushi18s
+LinkedIn: www.linkedin.com/in/ayushi-00024a311
 
 ---
 
